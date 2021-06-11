@@ -1,0 +1,17 @@
+.primary {
+  font-size: 16px;
+  border-radius: 3px;
+  margin: auto;
+  background-color: rgb(12, 107, 216);
+  color: white;
+  padding: auto;
+}
+
+.secondary {
+  font-size: 16px;
+  border-radius: 3px;
+  margin: auto;
+  background-color: rgb(97, 102, 107);
+  color: white;
+  padding: auto;
+}
